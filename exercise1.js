@@ -1,4 +1,4 @@
-// Some new things added
+// addition function
 function add(a, b) {
   return a + b;
 }
