@@ -1,7 +1,8 @@
 // Some new things added
-function add(x, y) {
-  return x + y;
+function add(a, b) {
+  return a + b;
 }
+
 // For all of these, what is the value of a when the function gets called with the alert()
 // #1
 function q1() {
